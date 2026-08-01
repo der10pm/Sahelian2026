@@ -1,0 +1,13 @@
+name = "Sahelian2026"
+author = "der10pm"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a01309837aacf6009534110d3f242ed1342bcb1444e49912c11da966ba651748"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.247"

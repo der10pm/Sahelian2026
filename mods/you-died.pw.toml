@@ -1,0 +1,13 @@
+name = "You Died"
+filename = "YouDied-neoforge-1.21-4.0.0.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ea75ae748f52a36ccaa61610bf69ef1aa53f485"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5616376
+project-id = 582464

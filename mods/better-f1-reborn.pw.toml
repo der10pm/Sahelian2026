@@ -1,6 +1,6 @@
 name = "Better F1 Reborn"
 filename = "betterf1-NeoForge-1.1-1.21.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

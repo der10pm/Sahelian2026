@@ -1,0 +1,14 @@
+{
+  "allowMovement": {
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "fi.dy.masa.malilib.MaLiLibConfigGui": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.ManageWaystonesScreen": true
+  },
+  "hideBackground": {
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.ManageWaystonesScreen": true
+  }
+}
